@@ -18,3 +18,28 @@ c:\users\rafael\documents\visual studio 2013\Projects\Quiron.LojaVirtual\Quiron.
 c:\users\rafael\documents\visual studio 2013\Projects\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\obj\Debug\Quiron.LojaVirtual.Web.csprojResolveAssemblyReference.cache
 c:\users\rafael\documents\visual studio 2013\Projects\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\obj\Debug\Quiron.LojaVirtual.Web.dll
 c:\users\rafael\documents\visual studio 2013\Projects\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\obj\Debug\Quiron.LojaVirtual.Web.pdb
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\Quiron.LojaVirtual.Web.dll.config
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\Quiron.LojaVirtual.Web.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\Quiron.LojaVirtual.Web.pdb
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\EntityFramework.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\EntityFramework.SqlServer.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\Quiron.LojaVirtual.Dominio.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Helpers.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Razor.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Webpages.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Webpages.Razor.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\Quiron.LojaVirtual.Dominio.pdb
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\EntityFramework.xml
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\EntityFramework.SqlServer.xml
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Razor.xml
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Webpages.xml
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Webpages.Razor.xml
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Helpers.xml
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\obj\Debug\Quiron.LojaVirtual.Web.csprojResolveAssemblyReference.cache
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\obj\Debug\Quiron.LojaVirtual.Web.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\obj\Debug\Quiron.LojaVirtual.Web.pdb
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Mvc.dll
+C:\Projetos\projetos\Quiron.LojaVirtual\Quiron.LojaVirtual.Web\bin\System.Web.Mvc.xml
